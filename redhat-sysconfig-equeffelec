@@ -13,6 +13,7 @@
 
 # Path to the supervisord binary
 #SUPERVISORD=/usr/bin/supervisord
+#SUPERVISORCTL=/usr/bin/supervisorctl
 
 # How long should we wait before forcefully killing the supervisord process ?
 #STOP_TIMEOUT=60
